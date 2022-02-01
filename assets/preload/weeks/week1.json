@@ -1,22 +1,57 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
-	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
+	"storyName": "its adventure time",
+	"hideFreeplay": false,
+	"weekBackground": "black",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"startUnlocked": true,
-
+	"songs": [
+		[
+			"corrupted hero",
+			"finn",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"brotherly bond",
+			"jake",
+			[
+				195,
+				155,
+				0
+			]
+		],
+		[
+			"gummy substance",
+			"bubble",
+			[
+				246,
+				113,
+				253
+			]
+		],
+		[
+			"together forever",
+			"jake",
+			[
+				195,
+				155,
+				0
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "Custom Week"
 }
